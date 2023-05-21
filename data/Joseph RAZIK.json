@@ -1,0 +1,20 @@
+{
+    "hal": {
+        "total": 25,
+        "Machine Learning [cs.LG]": 3,
+        "Computer Vision and Pattern Recognition [cs.CV]": 2,
+        "Sound [cs.SD]": 10,
+        "Signal and Image Processing": 7,
+        "Musicology and performing arts": 1,
+        "Computer Science [cs]": 6,
+        "Automatic": 3,
+        "Information Retrieval [cs.IR]": 2,
+        "Image Processing [eess.IV]": 1,
+        "Signal and Image processing": 7,
+        "Human-Computer Interaction [cs.HC]": 2,
+        "Technology for Human Learning": 1,
+        "Other [cs.OH]": 3,
+        "Other": 1,
+        "Computation and Language [cs.CL]": 2
+    }
+}
